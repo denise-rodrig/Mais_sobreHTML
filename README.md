@@ -32,3 +32,19 @@ caderno digital com informações adicionais do html 😂
 [atributos globais mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes)
 
 ---
+- atributo abbr com title cria uma abreviação do conteúdo da tag
+~~~html
+<div> <abbr title='ola'>esse </abbr> edite</h2></div>
+
+~~~
+- tag address é onde se coloca infor de contato do autor do documento
+~~~html
+<address></address>
+~~~
+- lista de descrição
+~~~html
+<dt>
+  <dt>olá</dt>
+  <dd>descrição</dd>
+</dl>
+~~~
