@@ -48,3 +48,16 @@ caderno digital com informações adicionais do html 😂
   <dd>descrição</dd>
 </dl>
 ~~~
+- meta favicon
+
+existem vários modos de adicionar esse ícone,até frameworks para adicionar diversos ao html.
+
+- meta para SEO
+~~~html
+<meta name="author" content='denise r'>
+<title> titulo do site e pesquisa</title>
+<meta name="description" content="descrição visivel a pesquisa do google">
+<meta name="robots" content="index,follow">comandos para robô google
+~~~
+
+- meta rede sociais: existem metas personalizados
