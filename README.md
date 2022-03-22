@@ -9,6 +9,11 @@ caderno digital com informações adicionais do html 😂
 <h2>Tag de titulo</h2>
 <img src='' alt='atributo de infor'> 
 ~~~
+- Normal Elements. Esses elementos são abertos com uma tag e fechados com
+outra tag.
+- Void Elements. Esses elementos não possuem
+conteúdo. Na sintaxe HTML, esses elementos são abertos e fechados com apenas uma
+tag com ou sem o caractere “/”. Um exemplo de Void Element é o elemento br
 
 # Informações extras
 - o atributo booleano disabled desativa alguma ação da tag
