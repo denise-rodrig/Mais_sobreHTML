@@ -63,6 +63,7 @@ existem vários modos de adicionar esse ícone,até frameworks para adicionar di
 <title> titulo do site e pesquisa</title>
 <meta name="description" content="descrição visivel a pesquisa do google">
 <meta name="robots" content="index,follow">comandos para robô google
+<meta name =" keywords " content =" curso java , curso C#"> palavras chaves de pesquisas
 ~~~
 
 - meta rede sociais: existem metas personalizados
